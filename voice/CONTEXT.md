@@ -2,7 +2,7 @@
 
 ★ Este é o Produto 1 do sistema. Antes de produzir qualquer conteúdo, a voz existe por escrito. Tudo que sai do pipeline é medido contra esta pasta.
 
-> **STATUS: RASCUNHO v0 (2026-06-12).** Construído a partir do briefing, dos 14 reels que ela selecionou e dos materiais que ela mesma escreveu e entregou via Drive (`knowledge-base/materiais-atendimentos/` — anotações espontâneas dela, fonte primária de voz). Será validado e reescrito COM a Clara no próximo encontro. Ainda falta a carta de vendas (Google Docs, não entregue).
+> **STATUS: RASCUNHO v0 (2026-06-12).** Construído a partir do briefing, dos 14 reels, das anotações de encontro escritas por ela (`knowledge-base/materiais-atendimentos/`) e da **carta de vendas** (`knowledge-base/textos-autorais/carta-de-vendas.md` — o melhor exemplar da voz). Todas as fontes primárias previstas estão dentro. Falta só a etapa decisiva: validar e reescrever COM a Clara no próximo encontro.
 
 ## Arquivos
 

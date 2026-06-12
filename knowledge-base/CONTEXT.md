@@ -4,6 +4,7 @@ Três gavetas com papéis distintos. Saber qual abrir evita carregar contexto in
 
 | Gaveta | O que tem | Quem usa |
 |---|---|---|
+| `textos-autorais/` | A escrita **caprichada** dela: a carta de vendas (melhor exemplar da voz) | `voice/` (fonte primária) e Stage 03 quando o artefato é texto longo |
 | `materiais-atendimentos/` | O que ela **ensina** — e como ela **escreve sem filtro**: 8 encontros (sistêmico, Jung, feminino, dependência emocional), roteiro "Vida Potente", tabela de Hawkins. São anotações escritas pela própria Clara: valem como fonte de voz, não só de conteúdo | Stage 03 (tema citado na pauta) e `voice/` (escrita espontânea dela) |
 | `dores-de-clientes/` | O que a audiência **pergunta**: dores reais anonimizadas | Stage 02 (priorização de pauta) |
 | `posts-referencia/` | Como ela **soa**: os 14 reels que ela selecionou, com legendas e leitura transversal | `voice/` (fonte dos exemplos) |

@@ -24,11 +24,11 @@ Pasta-fonte: https://drive.google.com/drive/folders/1i_iQ09SDinSXIBru-Heu8s9XZ0L
 
 Os Google Docs foram convertidos para Markdown; cada arquivo tem frontmatter com o link do documento original.
 
-## O que ainda falta
+## Entrega 2 — Carta de vendas (2026-06-12, via Marquito)
 
-- **Carta de vendas** (Google Docs) — único item realmente pendente: é o melhor exemplar da voz dela.
+A carta chegou no mesmo dia, via `_inbox/` (arquivo "Carta Atual.md"). Destino: `textos-autorais/carta-de-vendas.md` (texto limpo). As 4 imagens de depoimentos embutidas foram movidas para `local-only/carta-depoimentos/` — contêm prints com possíveis dados de clientes e **não são versionadas** (ver `.gitignore`).
 
-Bom ter, mas não bloqueia nada:
+## Bom ter (não bloqueia nada)
 
 - Situações de clientes que podem virar conteúdo (áudios anonimizados) — o pipeline começa com o que já existe.
 - Confirmar se "Paradoxo do Divórcio" e o "vídeo da amiga desistindo do sonho" estão entre os 14 links.

@@ -29,6 +29,7 @@ Engaja, mas desalinha dos valores dela e gera desgaste de gestão de crise nos c
 
 - ❌ "Últimas vagas", contagem regressiva, "só hoje"
 - ✅ CTA dela: convite a conversa, uma frase, no final
+- ⚠️ Nuance da carta: escassez **real e justificada** é da voz dela — "As vagas são limitadas, pois faço questão de te acompanhar de forma próxima." A diferença: o limite existe de verdade e o motivo é dito. Sem motivo verdadeiro, não usa.
 
 ## 5. Promessas (ver compliance — repetido aqui por importância)
 

@@ -1,6 +1,16 @@
 # Regras de voz
 
-> RASCUNHO v0 — validar com a Clara no encontro. A carta de vendas (pendente) deve refinar bastante este arquivo.
+> RASCUNHO v0 — validar com a Clara no encontro. Fontes: carta de vendas (melhor exemplar), 14 reels, anotações de encontro.
+
+## Os três registros dela (escolher conforme o artefato)
+
+| Registro | Onde aparece | Marcas |
+|---|---|---|
+| **Literário** | Carta de vendas, textos longos | Zero emojis, anáfora, frases curtíssimas com quebra de linha como respiração, contraste ("funciona, mas não pulsa") |
+| **Público editado** | Legendas de reels | Emojis com parcimônia, pergunta no fechamento, declaração-âncora |
+| **Espontâneo** | Anotações, áudios, rascunhos | Abreviações ("vc", "pq", "qdo"), metáfora doméstica estendida, coloquialismos ("Putz") |
+
+Conteúdo final transita entre os dois primeiros; o espontâneo é matéria-prima, não produto.
 
 ## Tom
 
@@ -14,6 +24,9 @@
 - **Pergunta no fechamento** que devolve a bola: "Faz sentido p você? Me conte aqui 👇"
 - **Declarações-âncora** curtas e afirmativas: "A rendição é o caminho e o destino é o amor."
 - **Imperativo gentil:** "Derreta-se." / "Não deixe esse medo te silenciar."
+- **Anáfora em escada** (registro literário): "A que espera permissão. / A que se prepara eternamente. / A que se diminui para caber."
+- **Diagnóstico em par curto** após espelhamento longo: "O problema não é falta de técnica. / É identidade."
+- **Qualificação dupla:** dizer pra quem É dizendo pra quem NÃO é.
 - Usa a própria história como prova antes de aconselhar.
 
 ## Vocabulário

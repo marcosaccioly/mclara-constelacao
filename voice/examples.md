@@ -1,6 +1,38 @@
 # Exemplos reais da voz
 
-> RASCUNHO v0 — duas fontes, ambas entregues por ela: os 14 reels (`knowledge-base/posts-referencia/links-posts.md`) mostram a voz **pública editada**; as anotações de encontro (`knowledge-base/materiais-atendimentos/`) mostram a escrita **espontânea, sem filtro** — o mais próximo que temos de como ela pensa no papel. **Pendente:** carta de vendas (ainda não entregue) e os posts "Paradoxo do Divórcio" e "amiga desistindo do sonho" citados na call.
+> RASCUNHO v0 — três fontes, todas entregues por ela: a **carta de vendas** (`knowledge-base/textos-autorais/carta-de-vendas.md`) é o melhor exemplar — a voz literária no auge; os 14 reels (`knowledge-base/posts-referencia/links-posts.md`) mostram a voz **pública editada**; as anotações de encontro (`knowledge-base/materiais-atendimentos/`) mostram a escrita **espontânea, sem filtro**. Bom ter (não bloqueia): confirmar se "Paradoxo do Divórcio" e "amiga desistindo do sonho" estão entre os 14 links.
+
+## A carta de vendas — a voz literária no auge
+
+Leitura obrigatória na íntegra (`knowledge-base/textos-autorais/carta-de-vendas.md`). O que ela mostra que as outras fontes não mostram:
+
+**Anáfora como bisturi** — a repetição que estreita o cerco:
+
+> "Então você recua. / Diz que ainda não está pronta. / Que precisa estudar mais. / Que existem mulheres melhores."
+
+> "Existe uma versão antiga sua que não quer morrer. / A que espera permissão. / A que se prepara eternamente. / A que se diminui para caber."
+
+**O diagnóstico em duas frases curtas** — depois de parágrafos de espelhamento:
+
+> "O problema não é falta de técnica. / É identidade."
+
+**Definição do próprio trabalho sem messianismo** (e em total acordo com o compliance):
+
+> "Meu trabalho não é te salvar. / É sustentar a travessia enquanto essa identidade cai e outra nasce."
+
+**Qualificação dupla** — diz pra quem É dizendo pra quem NÃO é:
+
+> "Essa jornada não é para mulheres que desejam viver uma vida domesticada, morna e condicionada. / É para quem sente que já passou do ponto de continuar se abandonando."
+
+**Contraste-assinatura** (abstrato aterrissado em sensação):
+
+> "Você tem uma vida que funciona, mas não pulsa."
+
+**Fechamento que devolve a autoridade pra leitora:**
+
+> "Você não chegou aqui por acaso. / E já sabe disso."
+
+*Registro:* **zero emojis** na carta (diferente dos reels), frases curtíssimas com quebra de linha como respiração, segunda pessoa o tempo todo, nenhuma promessa de resultado — a oferta é travessia acompanhada, não destino garantido. Vocabulário-chave: sustentar, travessia, ocupar espaço/lugar, se abandonar, autoridade interna, nomear.
 
 ## Escrita espontânea — como ela explica (anotações de encontro)
 

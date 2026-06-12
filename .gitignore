@@ -1,0 +1,7 @@
+# Material sensível que nunca sobe pro GitHub (prints de depoimentos,
+# dados de clientes antes de anonimizar, rascunhos crus)
+local-only/
+
+# Sistema
+.DS_Store
+Thumbs.db
