@@ -5,3 +5,6 @@ local-only/
 # Sistema
 .DS_Store
 Thumbs.db
+
+# Artefatos de crash do Git Bash no Windows
+*.stackdump
