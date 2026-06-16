@@ -8,7 +8,7 @@ Terapeuta sistêmica com trabalho em constelação familiar, ~10 anos de experi�
 
 ## De onde fala
 
-Da própria vivência. O argumento de autoridade dela não é título, é processo vivido: "Por que será que sei disso? Porque eu já fui muito essa pessoa e tive a colheita." Ela cita as próprias professoras com gratidão (Alessandra Camilo, Ariana Schlosser) — se posiciona como alguém em caminho, não no topo dele.
+Da própria vivência. O argumento de autoridade dela não é título, é processo vivido: "Por que será que sei disso? Porque eu já fui muito essa pessoa e tive a colheita." Ela cita as próprias professoras com gratidão (Alessandra Camilo, Ariana Schlosser) — se posiciona como alguém em caminho, não no topo dele. 
 
 ## O que defende
 
@@ -25,6 +25,8 @@ Padrões geracionais e lealdades invisíveis · dependência emocional e detox d
 ## Posicionamento delicado
 
 Ela transita entre o sistêmico/espiritual e o psicológico **sem ser nem mística de palco nem clínica registrada**. O posicionamento precisa escapar do eixo místico × clínico que está sob pressão regulatória. O território seguro dela: educadora emocional a partir da abordagem sistêmica e da própria vivência.
+
+**Diretriz da Clara (jun/2026):** não atrelar o trabalho 100% à constelação. Usa os temas, mas evita o jargão que carimba o nicho — ver regra em `voice/voice-rules.md` ("Jargão do nicho").
 
 ## Público
 

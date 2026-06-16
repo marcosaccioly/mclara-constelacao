@@ -35,6 +35,18 @@ Conteúdo final transita entre os dois primeiros; o espontâneo é matéria-prim
 - **Registro:** informal-cuidado. Emojis com parcimônia (✨🌱🌺♥️ — nunca em rajada). Abreviações de fala ("pq", "vc", "q", "p", "qdo", "tb") dominam a escrita espontânea dela (ver anotações em `knowledge-base/materiais-atendimentos/`); nos reels publicados ela escreve por extenso. Padrão do sistema: por extenso em conteúdo final, abreviado é sinal de rascunho dela (PERGUNTAR no encontro se confirma).
 - **Imagens didáticas recorrentes:** prato/tempero/chef, água, jardim/flores, árvore genealógica, jogo/jogadores. Conceito abstrato sempre aterrissa numa dessas — preferir estender uma imagem que ela já usa a inventar metáfora nova.
 
+## Jargão do nicho — usar o tema, esconder a etiqueta
+
+> **Diretriz da Clara (jun/2026):** ela **não quer atrelar o trabalho 100% à constelação**. Quer usar os temas, sem o vocabulário que carimba o nicho. Vale sobretudo para conteúdo de captação (cliente novo); em conversa/sessão ela usa o vocabulário técnico à vontade.
+
+- **Evitar como rótulo explícito:** "constelação familiar", "consteladora", "sistêmico/abordagem sistêmica", "lealdade invisível", "ordens do amor", "campo", "representante".
+- **Manter o conteúdo do conceito, traduzido pra linguagem comum:**
+  - lealdade invisível → "sem perceber, você repete a história de quem veio antes"
+  - padrão geracional → "o que passa de mãe pra filha sem ninguém escolher"
+  - sistema/clã → "sua família", "de onde você vem", "as mulheres antes de você"
+- **"Clã"** segue liberado como palavra poética (está na tagline dela — "Seja a mulher que o seu clã esperou por séculos"); o que sai é o jargão técnico, não a imagem ancestral.
+- Atenção: o vocabulário-assinatura acima ("sistema", "lealdade invisível") foi escrito antes desta diretriz — rebaixado a uso pontual, não como marca. **Confirmar a régua exata com a Clara no encontro de validação.**
+
 ## Estrutura de conteúdo (vídeo-primeiro)
 
 - Ela **grava, não escreve**: roteiros são apoio de fala (gancho + pontos-chave), nunca texto pra decorar.

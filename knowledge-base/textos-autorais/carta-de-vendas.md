@@ -1,5 +1,5 @@
 ---
-fonte: "Carta Atual.md" — entregue pelo Marquito via _inbox em 2026-06-12
+fonte: Carta Atual.md - entregue pelo Marquito via _inbox em 2026-06-12
 nota: texto integral escrito pela Clara (carta do link da bio → WhatsApp). As 4 imagens de depoimentos embutidas no original foram movidas para local-only/carta-depoimentos/ (contêm prints com possíveis dados de clientes — não versionar).
 status-voz: MELHOR EXEMPLAR da voz escrita dela — fonte primária de voice/
 ---
