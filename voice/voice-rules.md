@@ -1,6 +1,6 @@
 # Regras de voz
 
-> RASCUNHO v0 — validar com a Clara no encontro. Fontes: carta de vendas (melhor exemplar), 14 reels, anotações de encontro.
+> Atualizado em 22/06/2026 com aprendizados da sessão de produção (carrossel aprovação materna). Fontes: carta de vendas (melhor exemplar), 14 reels, anotações de encontro + feedback direto da Clara.
 
 ## Os três registros dela (escolher conforme o artefato)
 
@@ -53,6 +53,28 @@ Conteúdo final transita entre os dois primeiros; o espontâneo é matéria-prim
 - Gancho dos 3 primeiros segundos obrigatório no draft.
 - Legenda com texto de abertura forte (85% assiste sem som).
 - CTA preferido: conversa (comentário, direct) — venda acontece na conversa, não no post.
+
+## Aprendizados de sessão (22/06/2026) — validados pela Clara
+
+### Ritmo de frase
+- Frases curtas empilhadas, cada linha com peso próprio — não parágrafos explicativos longos
+- Vírgulas onde há fluxo contínuo; ponto só onde há pausa real ou mudança de ideia
+- Evitar negações no padrão "não é X, mas Y" — transformar em afirmação direta
+
+### Linguagem coletiva para temas de gênero
+- Temas sobre padrões femininos geracionais → usar "a gente", "nós", "as mulheres" em vez de "você" singular
+- Exemplos aprovados: "a gente carrega", "às mulheres foi ensinado", "isso chegou até nós"
+- Isso posiciona a Clara como parte do coletivo feminino, não como quem observa de fora
+
+### Questões de gênero
+- Entram como padrão estrutural, nunca com inimigo declarado
+- "Às mulheres foi ensinado por gerações..." — falar da estrutura, não de culpado individual
+- Conecta com o anti-padrão 3 de `anti-padroes.md`
+
+### Perguntas de fechamento aprovadas
+- "Você já se sentiu assim?" ✅
+- "Faz sentido pra você?" ✅
+- Evitar: "Isso acontece com você?" (menos impactante)
 
 ## Réguas de qualidade
 
